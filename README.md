@@ -5,7 +5,6 @@ A Go microservice to manage and study exoplanets.
 ## Prerequisites
 
 - Go 1.19+
-- Docker (optional, for containerization)
 
 ## Project Structure
 
